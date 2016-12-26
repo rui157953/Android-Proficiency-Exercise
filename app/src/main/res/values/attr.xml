@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyIndicator">
+        <attr name="pointGap" format="dimension"/>
+        <attr name="count" format="integer"/>
+        <attr name="checkedPointColor" format="color"/>
+        <attr name="normalPointColor" format="color"/>
+    </declare-styleable>
+
+</resources>
